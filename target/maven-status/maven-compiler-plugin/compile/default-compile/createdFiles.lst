@@ -1,0 +1,12 @@
+com\shipserv\hr\web\domain\Employee.class
+com\shipserv\hr\web\rest\UserLoginServiceClientImpl.class
+com\shipserv\hr\web\rest\UserLoginServiceClient.class
+com\shipserv\hr\web\service\LoginService.class
+com\shipserv\hr\web\service\EmployeeServiceImpl.class
+com\shipserv\hr\web\controller\EmployeeController.class
+com\shipserv\hr\web\service\EmployeeService.class
+com\shipserv\hr\web\rest\EmployeeServiceClient.class
+com\shipserv\hr\web\service\LoginServiceImpl.class
+com\shipserv\hr\web\domain\UserToken.class
+com\shipserv\hr\web\controller\LoginController.class
+com\shipserv\hr\web\rest\EmployeeServiceClientImpl.class
